@@ -1,0 +1,109 @@
+#login{
+    background: linear-gradient(120deg,#4c79d3 44.9%, #ffffff 45%) no-repeat fixed;
+}
+.text-login{
+    color:#ffffff;
+    font-size: 18pix;
+    font-weight: 500;
+}
+.coins{
+    position: absolute;
+    bottom: 100px;
+}
+.button-login{
+    border-radius: 10px;
+    background-color: #4e0070;
+    color: #ffffff;
+    width: 50%;
+    margin: 0 25%;
+}
+.button-login:hover{
+    background: #4c79d3;
+    color: #ffffff;
+
+}
+.link-default{
+    color:#4e0070;
+    cursor:pointer;
+}
+.link-default:hover{
+ color:#4c79d3;
+}
+#app{
+    background: linear-gradient(120deg,#ffffff 44.9%,#4c79d3 45% ) no-repeat fixed;
+}
+header{
+    border-bottom: 1px solid #bebcbc;
+    padding: 5px;
+    background-color: #ffffff;
+}
+.color-primary{
+color: #4e0070;
+}
+.color-secondary{
+color: #4c79d3;
+}
+.icon-detail{
+    font-size: 50px;
+    margin-right: 10px;
+    vertical-align: middle;
+
+}
+.table-value{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 20px;
+    font-size: 30px;  
+    font-weight:normal; 
+    
+}
+.b-ground{
+    background-color: #4e0070;    
+    border-radius:8px;
+    color: #ffffff;
+    height: 40px;
+    margin: 10px;
+}
+.b-ground:hover{
+    background-color: #4c79d3;
+    color: #ffffff;
+    
+}
+.info{
+    border-radius: 30px 30px 5px 5px;
+    background-color: #ffffff;
+    padding: 20px 0px 0px 0px;
+}
+.but{  
+    color: #4e0070;
+    
+   
+    
+}
+.button-cancel{
+    border-radius: 8px;
+}
+.button-float{
+    border-radius: 100%;
+    height: 60px;
+    width: 60px;
+    position: fixed;
+    bottom: 1rem;
+    right: 2rem;
+    font-size: 35px;
+    background-color: #4e0070;
+    color: #ffffff;
+    padding: 0 !important;
+    border: 2px solid #4e0070;
+}
+.button-float:hover{
+    border: 2px solid #4c79d3;
+    background-color: #ffffff;
+    color: #4c79d3;
+
+}
+.logout{
+    min-width: 5rem !important;
+}
+.menu{
+    margin-right: 20px;
+}
